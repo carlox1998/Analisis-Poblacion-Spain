@@ -1,0 +1,7 @@
+#py -m pip install -r requerimientos.txt
+
+matplotlib>=3.8
+pandas==3.0.6
+yfinance==1.7.0
+numpy==2.5.4
+openpyxl
